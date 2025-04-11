@@ -1,0 +1,8 @@
+streamlit
+groq
+gtts
+audio_recorder_streamlit
+deep-translator
+python-dotenv
+cryptography
+langdetect
